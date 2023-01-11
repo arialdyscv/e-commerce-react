@@ -21,7 +21,7 @@ import { ReactComponent as Logo } from "../.././assets/brand-icon.svg";
 import { ReactComponent as CartIcon } from "../.././assets/empty-cart-icon.svg";
 import down from "../.././assets/downward.svg";
 import upArrow from "../../assets/upwards.svg";
-import CartModal from "../Cart/CartModal";
+import CartModal from "../CartModal/CartModal";
 
 class NavBar extends Component {
   constructor(props) {
